@@ -1,0 +1,39 @@
+*{
+    background-color: #1e2124;
+}
+
+h1{
+    color: azure;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Questrial', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+header{
+    display: flex;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+    color: azure;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.img{
+    margin-left: 40px;
+    border-radius: 50px;
+    border-color: aliceblue;
+    border: 100px;
+}
+.one{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.two{
+    margin-top: -100px;
+}
